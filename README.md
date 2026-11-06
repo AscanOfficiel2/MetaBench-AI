@@ -28,7 +28,7 @@ flowchart TD
     F --> G[Compare with reference results]
     G --> H[Record score, execution evidence and errors]
     H --> I[Report findings and limitations]
-    J[Private from evaluated agent: reference scripts and answers] -. Evaluator only .-> G
+    J[Execute privately from evaluated agent: use reference scripts and data] -. Evaluator only .-> G
 ```
 
 *Figure 1. Recommended MetaBench-AI evaluation workflow. Reference materials are used by the evaluator after the agent submits its answer, not supplied to the agent during analysis.*
