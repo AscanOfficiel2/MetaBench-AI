@@ -42,7 +42,7 @@ flowchart TD
 
 ### Step-by-step procedure
 
-1. **Select a task.** Open the relevant file in [`benchmarks/`](benchmarks/) and read its full agent-facing instructions.
+1. **Select a task.** Open the relevant file in [`Task_prompts/`](Task_prompts/) and read its full agent-facing instructions.
 2. **Obtain the inputs.** Download only the files from the corresponding [`Task1_input/`](Task1_input/) or [`Task2_input/`](Task2_input/) directory. Preserve filenames and sample identifiers.
 3. **Start an execution-capable AI session.** Use an agent that can inspect CSVs, write and execute the specified R or Python code, and report results. Supply the **prompt and matching inputs only**. Do not provide the ground-truth workbook or reference scripts.
 4. **Collect the response.** Ask for the JSON structure specified in the task prompt, and retain execution logs or generated scripts where permitted.
