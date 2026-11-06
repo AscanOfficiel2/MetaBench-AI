@@ -14,14 +14,7 @@ MetaBench-AI turns these decisions into **verifiable, data-dependent evaluations
 
 The initial tasks draw on harmonized, species-level CRC metagenomic research datasets. They are **not raw sequencing-read benchmarks**; the starting point is a filtered TPM matrix for Task 1 and a previously processed CLR/batch-corrected matrix for Task 2.
 
-## 2. Available benchmark tasks
-
-| Task | Scientific focus | Agent-facing prompt | Input data | Expected output |
-|---|---|---|---|---|
-| **Task 1: Batch effects** (`mgx_batch_effect_evaluation`) | CLR transformation, technical variation, batch correction, marginal PERMANOVA | [Task 1 prompt](benchmarks/task1_batch_effects.md) | [Task1_input](Task1_input/) | Technical factor and before/after R² |
-| **Task 2: DML and negative control** (`mgx_crc_dml_negative_control`) | Disease-group selection, confounder-aware estimation, negative-control interpretation | [Task 2 prompt](benchmarks/task2_dml_negative_control.md) | [Task2_input](Task2_input/) | Taxon-specific estimates, 95% intervals, and interpretation |
-
-## 3. How to use MetaBench-AI
+## 2. How to use MetaBench-AI
 
 The following workflow applies to an AI agent with access to local CSV files and an R or Python execution environment.
 
@@ -63,24 +56,7 @@ flowchart TD
 
 The numbers above are **placeholders**, not reference answers. For Task 2, follow the exact JSON schema in its prompt file.
 
-## 4. Repository layout
-
-```text
-MetaBench-AI/
-├── README.md
-├── LICENSE
-├── Task1_input/
-├── Task2_input/
-├── benchmarks/
-│   ├── task1_batch_effects.md
-│   └── task2_dml_negative_control.md
-├── MetaBench_AI_Ground_Truth.xlsx
-└── reference_scripts/           # Reference R/Python scripts
-```
-
-Additional folders for automated graders, test fixtures, provenance records, and evaluation reports are planned. Actual repository paths may evolve; consult the file tree for the latest structure.
-
-## 5. Reproducibility and reference materials
+## 3. Reproducibility and reference materials
 
 Task 1's reference workflow uses R packages **limma**, **compositions**, **vegan**, and **dplyr**. Task 2's reference workflow uses Python packages **numpy**, **pandas**, **scikit-learn**, and **econml**. Use the reference scripts in the repository for the full method configuration and input orientation. A pinned environment and end-to-end verification against the published repository files remain to be completed.
 
@@ -88,27 +64,17 @@ Task 1's reference workflow uses R packages **limma**, **compositions**, **vegan
 
 Reference outputs are provided to support reproducibility, not as claims of universal biological ground truth. They should not be included in the evaluated agent's context. Because these materials are public, evaluations are vulnerable to answer retrieval or training-data contamination.
 
-## 6. Scientific and evaluation limitations
-
-- **Open answers:** The reference workbook and scripts are public. MetaBench-AI is suitable for development, teaching, and reproducibility checks, not leakage-resistant model ranking.
-- **Marginal PERMANOVA:** Separate one-factor R² values are not independent variance partitions. Project, Center_Name, and Instrument can be correlated.
-- **Batch correction:** Reduced technical R² alone does not establish that disease-related biological information is preserved without distortion. The reference correction design explicitly includes Group.
-- **Observational inference:** DML adjustment and a negative-control comparison do not, by themselves, identify causal microbial effects.
-- **Tolerance calibration:** Numerical grading tolerances are provisional; legitimate implementations may differ with method and software environment. Confidence-interval endpoint tolerances are not yet validated.
-- **Scope:** Only two initial tasks, both derived from CRC-associated gut metagenomics; no systematic cross-model evaluation has yet been performed.
-- **Data rights:** Public availability of original cohorts does not automatically authorize redistribution of every derived dataset. Original cohort accessions, citations, and redistribution terms require verification and documentation.
-
-## 7. Development roadmap
+## 4. Development roadmap
 
 Planned work includes: (i) a deterministic JSON grader with unit tests; (ii) pinned R/Python environments and automated reproducibility checks; (iii) complete cohort provenance and data-use documentation; (iv) measured evaluations of different AI agents; and (v) additional tasks in taxonomic and functional profiling, MAG quality assessment, and cross-cohort generalization.
 
-## 8. Attribution, contributions, and citation
+## 5. Attribution, contributions, and citation
 
 **Project maintainer:** AbdulAziz Ascandari. The analytical methods build on collaborative metagenomic research; acknowledge contributing researchers and original cohort data providers when reusing the work. Suggestions and issues are welcome via the repository's GitHub Issues page.
 
 A formal software citation and archived release identifier are planned. Until then, cite the repository and the original datasets or related scientific publications as appropriate.
 
-## 9. License
+## 6. License
 
 Original MetaBench-AI software and reference scripts are provided under the **MIT License**, subject to the copyright and attribution notices in [`LICENSE`](LICENSE). Dataset access and redistribution conditions may differ and are not superseded by the software license.
 
