@@ -174,9 +174,13 @@ Contributions, suggestions and scientific discussions are welcome through GitHub
 
 ## 10. Citation and License
 
-A formal software citation and release identifier will be provided when the first stable version is published.
+## License
 
-Software licensing and dataset redistribution terms will be documented separately after verification of applicable permissions.
+The original MetaBench-AI software and reference scripts are released under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
+
+The underlying metagenomic datasets may be subject to separate data-use and redistribution conditions. The MIT License does not override those conditions.
 
 **Repository:** https://github.com/AscanOfficiel2/MetaBench-AI
 
