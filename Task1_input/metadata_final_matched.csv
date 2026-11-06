@@ -1,0 +1,996 @@
+Sample_ID,Project,Continent,Country,Center_Name,Instrument,Age,Sex,BMI,Group
+DRR127476,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Male,22.5,Cancer
+DRR127478,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,66,Female,22.6,Cancer
+DRR127481,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,61,Male,28.3,Cancer
+DRR127485,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Female,21.9,Cancer
+DRR127507,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,65,Male,21.3,Cancer
+DRR127509,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,59,Male,25.5,Cancer
+DRR127514,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,78,Male,22.7,Cancer
+DRR127515,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,30,Male,25.7,Cancer
+DRR127517,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Female,23.6,Cancer
+DRR127519,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,57,Female,18.4,Cancer
+DRR127521,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,38,Male,24.4,Cancer
+DRR127536,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,44,Female,26.7,Cancer
+DRR127557,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,62,Male,24.6,Cancer
+DRR127559,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,46,Male,19.2,Cancer
+DRR127567,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Female,17.3,Cancer
+DRR127579,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Male,20.6,Cancer
+DRR127580,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Female,17.5,Cancer
+DRR127594,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Male,21.5,Cancer
+DRR127752,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,54,Male,22.4,Adenoma
+DRR127777,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,41,Female,19.9,Adenoma
+DRR162775,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,72,Female,19.3,Adenoma
+DRR162776,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,53,Male,23.4,Adenoma
+DRR171459,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,58,Male,25.4,Adenoma
+DRR171466,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,72,Male,49.5,Adenoma
+DRR171467,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,77,Male,19.5,Adenoma
+DRR171469,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,55,Male,25.2,Adenoma
+DRR171476,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,58,Male,22.9,Adenoma
+DRR171547,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Female,16.7,Adenoma
+DRR171553,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Female,18.8,Adenoma
+DRR171560,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,41,Female,20.9,Adenoma
+DRR171581,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,65,Male,19.7,Adenoma
+DRR171582,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,62,Male,25,Adenoma
+DRR171583,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,67,Female,23.9,Healthy
+DRR171584,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,74,Female,20.1,Adenoma
+DRR171585,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,57,Female,19.4,Adenoma
+DRR171586,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,56,Male,23.8,Healthy
+DRR171587,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,72,Male,21.7,Healthy
+DRR171589,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,54,Male,27.3,Healthy
+DRR171590,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Female,19.1,Healthy
+DRR171591,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,75,Male,20.1,Healthy
+DRR171593,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,66,Female,23,Healthy
+DRR171594,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,62,Female,20.2,Healthy
+DRR171595,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,66,Female,23.7,Healthy
+DRR171596,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,55,Male,23.6,Healthy
+DRR171598,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Female,23.5,Healthy
+DRR171599,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,71,Female,26.6,Healthy
+DRR171601,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,68,Female,21.2,Healthy
+DRR171602,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Female,21.2,Adenoma
+DRR171603,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Female,19.8,Adenoma
+DRR171605,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,72,Male,22.1,Adenoma
+DRR171607,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,37,Male,19.3,Healthy
+DRR171608,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,47,Female,30.8,Adenoma
+DRR171609,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,49,Female,19.7,Healthy
+DRR171610,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,31,Male,39.3,Healthy
+DRR171611,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Female,22.6,Healthy
+DRR171612,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,35,Female,22.2,Healthy
+DRR171613,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,57,Male,30.1,Healthy
+DRR171614,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,21,Female,17.9,Healthy
+DRR171615,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Female,30,Healthy
+DRR171616,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,50,Male,21.5,Healthy
+DRR171617,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,57,Female,21.5,Healthy
+DRR171618,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Male,27.6,Healthy
+DRR171619,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,67,Male,25.4,Adenoma
+DRR171620,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,51,Female,21.9,Healthy
+DRR171621,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,61,Female,17.1,Healthy
+DRR171622,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Female,17.9,Healthy
+DRR171624,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Male,18,Healthy
+DRR171625,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,27,Male,25,Healthy
+DRR171626,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,34,Male,21.9,Healthy
+DRR171627,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,75,Female,30.2,Healthy
+DRR171629,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,37,Male,22.1,Healthy
+DRR171632,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Female,17.9,Healthy
+DRR171633,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,55,Female,21.1,Healthy
+DRR171643,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,78,Male,23.3,Healthy
+DRR171646,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Male,22.9,Healthy
+DRR171656,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,58,Male,22.2,Healthy
+DRR171659,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,76,Female,21.5,Healthy
+DRR171661,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Male,22.7,Healthy
+DRR171664,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,41,Female,26.1,Healthy
+DRR171668,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,62,Male,21.7,Healthy
+DRR171670,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,51,Female,21.2,Healthy
+DRR171673,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,45,Female,18.9,Healthy
+DRR171675,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,60,Female,18.6,Healthy
+DRR171680,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,49,Female,20.8,Healthy
+DRR171682,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,56,Male,24.1,Healthy
+DRR171683,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,77,Female,21.9,Healthy
+DRR171684,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Female,21.1,Healthy
+DRR171685,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,43,Male,24.7,Healthy
+DRR171686,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,55,Female,19.8,Healthy
+DRR171687,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,33,Female,22.2,Healthy
+DRR171688,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,74,Female,19.9,Healthy
+DRR171689,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,46,Male,21.8,Healthy
+DRR171690,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,59,Male,26.5,Healthy
+DRR171691,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,65,Female,18.3,Healthy
+DRR171692,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,35,Male,24.2,Healthy
+DRR171693,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,38,Female,17.9,Healthy
+DRR171728,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,47,Male,23.6,Cancer
+DRR171729,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,60,Male,28.4,Adenoma
+DRR171730,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,66,Male,22.1,Cancer
+DRR171731,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,45,Male,20.6,Cancer
+DRR171732,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Female,21.4,Cancer
+DRR171734,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,68,Female,21.8,Cancer
+DRR171735,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,66,Male,24.7,Cancer
+DRR171736,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,67,Female,22.1,Adenoma
+DRR171738,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,76,Male,19.2,Cancer
+DRR171739,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Male,22.1,Cancer
+DRR171740,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,51,Female,18.8,Cancer
+DRR171742,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,67,Female,24.3,Cancer
+DRR171743,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Male,22.8,Cancer
+DRR171744,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Male,31,Cancer
+DRR171746,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Female,36.5,Cancer
+DRR171748,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Female,22.5,Cancer
+DRR171749,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Female,16.9,Cancer
+DRR171750,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Male,23.3,Cancer
+DRR171751,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,74,Female,19.1,Adenoma
+DRR171752,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,78,Male,27.3,Adenoma
+DRR171753,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,60,Female,20.8,Cancer
+DRR171754,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,58,Male,22,Adenoma
+DRR171756,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,51,Male,21.8,Adenoma
+DRR171757,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,71,Male,26.2,Cancer
+DRR171758,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,67,Male,23.6,Cancer
+DRR171759,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,65,Male,21.7,Cancer
+DRR171760,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Male,23.1,Cancer
+DRR171761,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,60,Male,27.1,Cancer
+DRR171764,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,49,Male,26.1,Cancer
+DRR171766,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Male,19.4,Cancer
+DRR171767,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,49,Female,22.6,Cancer
+DRR171768,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Female,20.6,Cancer
+DRR171769,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Male,26.8,Cancer
+DRR171774,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,61,Female,24.6,Cancer
+DRR171775,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,67,Male,23.1,Adenoma
+DRR171776,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,57,Male,25.4,Cancer
+DRR171778,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Female,26.6,Cancer
+DRR171780,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,62,Male,24,Cancer
+DRR171781,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,47,Male,21.5,Cancer
+DRR171785,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Male,24.6,Cancer
+DRR171787,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Male,26.2,Adenoma
+DRR171788,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Male,22.6,Adenoma
+DRR171789,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Female,19.6,Cancer
+DRR171790,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,61,Female,21.6,Cancer
+DRR171792,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,76,Male,24.7,Cancer
+DRR171794,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Male,23.3,Cancer
+DRR171795,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Male,16.1,Cancer
+DRR171797,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,53,Male,20.8,Cancer
+DRR171799,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Male,21,Cancer
+DRR171800,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,59,Male,24.8,Cancer
+DRR171803,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,66,Male,18.4,Adenoma
+DRR171804,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,75,Male,21.5,Adenoma
+DRR171806,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Male,25.7,Cancer
+DRR171808,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Male,21,Adenoma
+DRR171809,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,74,Male,28.7,Adenoma
+DRR171811,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,72,Male,23.7,Adenoma
+DRR171814,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,50,Male,23.5,Cancer
+DRR171815,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,68,Male,23.9,Cancer
+DRR171818,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,65,Male,25.1,Cancer
+DRR171819,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,60,Male,23.2,Cancer
+DRR171823,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,71,Male,21.2,Adenoma
+DRR171826,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,58,Male,23.9,Adenoma
+DRR171828,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,72,Female,17.1,Adenoma
+DRR171830,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,73,Male,21.8,Adenoma
+DRR171835,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,59,Male,24.4,Adenoma
+DRR171836,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,65,Male,24.9,Adenoma
+DRR171837,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Male,22.4,Adenoma
+DRR171854,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,59,Male,22.4,Adenoma
+DRR171857,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Male,20.9,Adenoma
+DRR171868,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,74,Male,23.1,Adenoma
+DRR171883,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Male,23.6,Adenoma
+DRR171888,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Male,21,Adenoma
+DRR171889,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,60,Male,26,Adenoma
+DRR171894,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,53,Male,28,Adenoma
+DRR171895,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,58,Male,22,Adenoma
+DRR171903,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,69,Male,25,Adenoma
+DRR171908,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,63,Male,20.1,Adenoma
+DRR171913,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,66,Female,20.2,Adenoma
+DRR171914,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,48,Male,19.1,Adenoma
+DRR171926,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Female,31.1,Adenoma
+DRR171927,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,58,Female,34.8,Adenoma
+DRR171928,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Male,21.8,Adenoma
+DRR171931,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,70,Female,25.5,Adenoma
+DRR171936,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,59,Female,20.1,Adenoma
+DRR172007,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,50,Male,23.7,Adenoma
+DRR172011,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,78,Male,23,Adenoma
+DRR172013,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,44,Male,22.1,Adenoma
+DRR172016,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Male,24.2,Adenoma
+DRR172018,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,64,Male,18.8,Adenoma
+DRR172019,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,71,Male,18.4,Adenoma
+DRR172021,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,65,Female,20.4,Adenoma
+DRR173017,Cohort_1,East_Asia,Japan,TITECH,Illumina_HiSeq_2500,52,Male,22.6,Adenoma
+ERR14205193,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,60,Female,18.5,Cancer
+ERR14205194,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,77,Male,24.2,Cancer
+ERR14205195,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,76,Male,26.3,Cancer
+ERR14205197,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,59,Male,23.4,Cancer
+ERR14205199,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,69,Female,24.1,Cancer
+ERR14205200,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,43,Male,31.2,Cancer
+ERR14205201,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,54,Male,20.7,Cancer
+ERR14205202,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,77,Female,23.4,Cancer
+ERR14205203,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Male,26.4,Cancer
+ERR14205204,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,69,Male,25,Cancer
+ERR14205205,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,70,Male,23.8,Cancer
+ERR14205206,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,52,Female,16.9,Cancer
+ERR14205207,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,77,Male,23,Cancer
+ERR14205208,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,75,Female,21.8,Cancer
+ERR14205209,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,73,Female,28.2,Cancer
+ERR14205210,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,77,Male,32.3,Cancer
+ERR14205211,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,73,Male,26.1,Cancer
+ERR14205212,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,74,Male,31,Cancer
+ERR14205213,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,60,Male,22.9,Cancer
+ERR14205214,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,61,Male,32.4,Cancer
+ERR14205215,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,79,Female,18,Cancer
+ERR14205216,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,78,Male,23.4,Cancer
+ERR14205217,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,68,Male,29.4,Cancer
+ERR14205218,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,58,Male,19.5,Cancer
+ERR14205219,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,73,Male,24.1,Cancer
+ERR14205220,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,74,Male,25.6,Cancer
+ERR14205222,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,88,Male,26,Cancer
+ERR14205223,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,75,Male,24.7,Cancer
+ERR14205224,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,76,Male,30.4,Cancer
+ERR14205269,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,41,Female,47.6,Cancer
+ERR14205270,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Male,33.9,Cancer
+ERR14205272,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,69,Male,23.7,Cancer
+ERR14205274,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,73,Male,23.9,Cancer
+ERR14205275,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Male,31.7,Cancer
+ERR14205362,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,76,Male,43.9,Cancer
+ERR14205363,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,56,Female,23.4,Cancer
+ERR14205365,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,74,Male,27.4,Cancer
+ERR14205376,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,66,Male,31.9,Cancer
+ERR14205378,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,61,Male,24.7,Cancer
+ERR14205379,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,67,Female,30.8,Cancer
+ERR14205381,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,61,Male,24.5,Cancer
+ERR14205382,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,44,Female,24.2,Cancer
+ERR14205383,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,80,Female,23.1,Cancer
+ERR14205384,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,74,Male,29.4,Cancer
+ERR14205385,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,88,Male,26,Cancer
+ERR14205386,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Male,32.3,Cancer
+ERR14205387,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,40,Female,26.7,Cancer
+ERR14205388,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Male,28.4,Cancer
+ERR14205389,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Female,29.1,Cancer
+ERR14205391,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,68,Male,29.5,Cancer
+ERR14205392,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,50,Male,31.1,Cancer
+ERR14205393,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,64,Male,28.7,Healthy
+ERR14205394,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,86,Female,31.3,Cancer
+ERR14205395,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,51,Male,28.1,Healthy
+ERR14205406,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,78,Male,30.8,Cancer
+ERR14205407,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,41,Male,23.1,Healthy
+ERR14205408,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,53,Male,26.8,Cancer
+ERR14205409,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,41,Female,21.5,Healthy
+ERR14205410,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,73,Female,22.6,Cancer
+ERR14205411,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,76,Female,23.5,Healthy
+ERR14205412,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,63,Female,22.5,Healthy
+ERR14205414,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,69,Female,21,Healthy
+ERR14205415,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,42,Male,32.7,Healthy
+ERR14205418,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,55,Female,31.2,Healthy
+ERR14205419,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,55,Male,25.5,Healthy
+ERR14205968,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,23,Female,23.4,Healthy
+ERR14205969,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,69,Male,33.5,Healthy
+ERR14205970,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,52,Male,43.9,Healthy
+ERR14205971,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,54,Female,41.2,Healthy
+ERR14205972,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,71,Female,22,Healthy
+ERR14205973,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,69,Male,29.7,Healthy
+ERR14205974,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,71,Female,34.5,Healthy
+ERR14205975,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,51,Male,28,Healthy
+ERR14205976,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Female,29.3,Healthy
+ERR14205977,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,40,Female,25.7,Healthy
+ERR14205978,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,44,Female,22,Healthy
+ERR14205979,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,66,Male,27.1,Healthy
+ERR14205980,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,42,Male,26.3,Healthy
+ERR14205981,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,66,Female,34.5,Healthy
+ERR14205982,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,72,Female,33.3,Healthy
+ERR14205983,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Female,42,Healthy
+ERR14205984,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,25,Male,16.2,Healthy
+ERR14205985,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,53,Male,26.5,Healthy
+ERR14205986,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,60,Female,23.4,Healthy
+ERR14205987,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,54,Female,32,Healthy
+ERR14205988,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,57,Female,25.8,Adenoma
+ERR14205989,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,66,Female,23.9,Healthy
+ERR14205990,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,48,Female,23,Healthy
+ERR14206024,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,55,Male,23.1,Adenoma
+ERR14206027,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,57,Female,23.1,Healthy
+ERR14206030,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,59,Male,28.4,Adenoma
+ERR14206035,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,50,Female,37.3,Healthy
+ERR14206036,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,59,Female,22.6,Adenoma
+ERR14206332,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,55,Female,29.1,Adenoma
+ERR14206333,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,68,Female,28.5,Healthy
+ERR14206334,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,62,Male,34.3,Adenoma
+ERR14206348,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,53,Female,23.7,Healthy
+ERR14206350,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,68,Female,26,Adenoma
+ERR14206352,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,62,Male,31.7,Adenoma
+ERR14206353,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,56,Male,23,Healthy
+ERR14206402,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Male,28.6,Healthy
+ERR14206403,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,76,Female,23.6,Adenoma
+ERR14206407,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,63,Male,34,Adenoma
+ERR14206408,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,51,Male,34.7,Healthy
+ERR14206411,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,51,Male,28.6,Adenoma
+ERR14206464,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,74,Male,26.7,Adenoma
+ERR14206975,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,58,Male,25.3,Adenoma
+ERR14206981,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,59,Male,28.6,Healthy
+ERR14206983,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,65,Female,34.2,Healthy
+ERR14206992,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,64,Male,31.1,Adenoma
+ERR14206995,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,68,Female,31.6,Adenoma
+ERR14206998,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,69,Female,28.5,Adenoma
+ERR14207000,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,74,Female,29.4,Healthy
+ERR14207008,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,75,Female,30.1,Healthy
+ERR14207015,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,74,Female,26,Cancer
+ERR14207021,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,53,Male,26.2,Healthy
+ERR14207023,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,48,Female,31.2,Adenoma
+ERR14207024,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,64,Female,27.1,Adenoma
+ERR14207042,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,64,Male,30.5,Adenoma
+ERR14207239,Cohort_4,Central_Europe,Czechia,UOT,Illumina_unspecified,54,Male,25,Healthy
+ERR14218611,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,43,Male,26.9,Healthy
+ERR14218612,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,50,Female,21.1,Healthy
+ERR14218617,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,43,Male,25.7,Healthy
+ERR14218618,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,60,Male,30.9,Cancer
+ERR14218619,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,55,Male,22.1,Cancer
+ERR14218620,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,46,Female,16.4,Healthy
+ERR14218621,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,60,Female,19.9,Healthy
+ERR14218623,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,77,Male,36,Adenoma
+ERR14218624,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,47,Female,29.4,Healthy
+ERR14218626,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,59,Male,20.4,Cancer
+ERR14218627,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,63,Female,16.5,Cancer
+ERR14218628,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,72,Male,22.8,Cancer
+ERR14218630,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,72,Female,29.4,Healthy
+ERR14218631,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,54,Female,23.7,Healthy
+ERR14218632,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,71,Male,21.2,Cancer
+ERR14218634,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,60,Male,31.2,Healthy
+ERR14218637,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,81,Male,31,Healthy
+ERR14218638,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,79,Female,16,Cancer
+ERR14218639,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,43,Male,26.5,Adenoma
+ERR14218641,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,84,Male,21.3,Cancer
+ERR14218659,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,81,Male,31,Healthy
+ERR14218661,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,88,Female,24.7,Cancer
+ERR14218662,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,71,Female,20.2,Cancer
+ERR14218663,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,39,Male,23.6,Healthy
+ERR14218664,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,78,Female,21.3,Cancer
+ERR14218705,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,54,Female,23.4,Cancer
+ERR14218880,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,57,Female,43.7,Cancer
+ERR14218881,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,66,Male,33.1,Cancer
+ERR14218884,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,81,Male,29.4,Cancer
+ERR14218885,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,57,Male,34.7,Cancer
+ERR14218886,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,62,Female,17.3,Healthy
+ERR14218887,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,79,Male,30.4,Healthy
+ERR14218891,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,64,Male,33.8,Cancer
+ERR14218892,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,62,Female,17.9,Healthy
+ERR14219004,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,69,Male,23.6,Adenoma
+ERR14225581,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,63,Male,44.1,Cancer
+ERR14225582,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,24,Female,17,Healthy
+ERR14225583,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,67,Male,27.7,Cancer
+ERR14225587,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,63,Female,19.6,Cancer
+ERR14225594,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,40,Male,28.4,Healthy
+ERR14225623,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,49,Female,18.4,Healthy
+ERR14225624,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,43,Male,24.7,Healthy
+ERR14225625,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,56,Female,36.9,Healthy
+ERR14225626,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,50,Male,22.5,Healthy
+ERR14225627,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,46,Female,27,Healthy
+ERR14225629,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,50,Female,28.3,Healthy
+ERR14225630,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,77,Female,28.7,Cancer
+ERR14225631,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,50,Female,15.4,Healthy
+ERR14225632,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,45,Male,32.6,Healthy
+ERR14225633,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,22,Female,16.8,Healthy
+ERR14225634,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,53,Male,28.7,Healthy
+ERR14225635,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,54,Female,26,Healthy
+ERR14225637,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,31,Female,20.9,Healthy
+ERR14225639,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,87,Male,20.7,Cancer
+ERR14225640,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,86,Male,22.9,Cancer
+ERR14225641,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,57,Female,22.5,Healthy
+ERR14225685,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,54,Female,40,Healthy
+ERR15197990,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,54,Female,28.6,Cancer
+ERR15197991,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,62,Female,27.1,Cancer
+ERR15198001,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,68,Male,25.1,Cancer
+ERR15198030,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,62,Female,25.7,Cancer
+ERR15198037,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,77,Male,23.4,Cancer
+ERR15198058,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,69,Female,25.8,Cancer
+ERR15198115,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,77,Female,34.5,Adenoma
+ERR15198254,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,68,Female,28,Cancer
+ERR15198295,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,83,Male,23.5,Adenoma
+ERR15204456,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,79,Male,25.4,Adenoma
+ERR15204799,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,73,Male,24.4,Cancer
+ERR15204801,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,74,Female,25.4,Cancer
+ERR15204803,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,68,Male,25.9,Cancer
+ERR15204806,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,59,Female,23.2,Cancer
+ERR15204807,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,77,Male,37.1,Cancer
+ERR15204809,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,50,Male,23.4,Healthy
+ERR15204814,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,56,Female,22.9,Cancer
+ERR15204816,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,72,Male,26.4,Cancer
+ERR15204820,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,63,Female,28,Cancer
+ERR15204821,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,65,Female,21.8,Adenoma
+ERR15204824,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,69,Female,21.5,Cancer
+ERR15204825,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,59,Male,32.8,Cancer
+ERR15204827,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,71,Female,35.2,Cancer
+ERR15204860,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,83,Male,22.4,Cancer
+ERR15204864,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,78,Female,22.2,Cancer
+ERR15204914,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,51,Female,24.5,Cancer
+ERR15204928,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,77,Female,25.1,Cancer
+ERR15204937,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,65,Male,30.1,Cancer
+ERR15204952,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,86,Male,25.1,Cancer
+ERR15204959,Cohort_5,Southern_Europe,Italy,UOT,Illumina_unspecified,77,Female,20.9,Adenoma
+ERR2726404,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,45,Male,30.7,Healthy
+ERR2726405,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,62,Female,28.5,Healthy
+ERR2726406,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,74,Male,22.9,Healthy
+ERR2726407,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Female,22.5,Healthy
+ERR2726408,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Female,22.7,Healthy
+ERR2726409,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,62,Female,27,Healthy
+ERR2726410,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,63,Female,25.8,Cancer
+ERR2726411,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,85,Female,19.7,Cancer
+ERR2726412,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,85,Female,19.7,Cancer
+ERR2726413,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,85,Female,19.7,Cancer
+ERR2726414,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,85,Female,19.7,Cancer
+ERR2726415,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,80,Male,28.4,Cancer
+ERR2726416,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,80,Male,28.4,Cancer
+ERR2726417,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,80,Male,28.4,Cancer
+ERR2726418,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,80,Male,28.4,Cancer
+ERR2726419,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,50,Female,23.4,Healthy
+ERR2726420,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,29.9,Healthy
+ERR2726421,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Female,22.1,Healthy
+ERR2726422,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,50,Male,21.6,Healthy
+ERR2726423,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,26.1,Cancer
+ERR2726424,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,26.1,Cancer
+ERR2726425,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,26.1,Cancer
+ERR2726426,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,26.1,Cancer
+ERR2726427,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,55,Female,18,Healthy
+ERR2726428,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,73,Male,24.8,Healthy
+ERR2726429,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,45,Male,22.1,Healthy
+ERR2726430,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,51,Male,26.3,Healthy
+ERR2726431,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,48,Female,25.4,Healthy
+ERR2726432,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,64,Male,26.8,Healthy
+ERR2726433,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,75,Male,21.5,Healthy
+ERR2726434,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,57,Female,22.2,Healthy
+ERR2726435,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,64,Male,27.6,Healthy
+ERR2726436,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Female,25.8,Healthy
+ERR2726437,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,25.2,Cancer
+ERR2726438,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,25.2,Cancer
+ERR2726439,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,25.2,Cancer
+ERR2726440,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,25.2,Cancer
+ERR2726441,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,29,Female,30.5,Healthy
+ERR2726442,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,44,Male,25.1,Healthy
+ERR2726443,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,76,Male,29.5,Healthy
+ERR2726444,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,56,Male,25,Healthy
+ERR2726445,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,53,Male,18.5,Healthy
+ERR2726446,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Female,25.4,Healthy
+ERR2726447,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,67,Male,24.4,Healthy
+ERR2726448,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,67,Female,30.1,Cancer
+ERR2726449,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,53,Male,26.2,Healthy
+ERR2726450,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,75,Male,30.1,Healthy
+ERR2726451,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,53,Female,24.1,Healthy
+ERR2726452,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,41,Male,23.8,Healthy
+ERR2726453,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,21.6,Cancer
+ERR2726454,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,21.6,Cancer
+ERR2726455,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,21.6,Cancer
+ERR2726456,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,21.6,Cancer
+ERR2726457,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,46,Male,26.3,Healthy
+ERR2726458,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,64,Male,24.6,Healthy
+ERR2726459,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,63,Female,20.2,Healthy
+ERR2726460,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,75,Male,22.9,Healthy
+ERR2726461,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,50,Male,22.6,Healthy
+ERR2726462,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,65,Male,32.7,Healthy
+ERR2726463,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,79,Male,22.4,Cancer
+ERR2726464,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,79,Male,22.4,Cancer
+ERR2726465,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,79,Male,22.4,Cancer
+ERR2726466,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,79,Male,22.4,Cancer
+ERR2726467,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,24,Cancer
+ERR2726468,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,24,Cancer
+ERR2726469,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,24,Cancer
+ERR2726470,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,81,Male,24,Cancer
+ERR2726471,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Male,27,Healthy
+ERR2726472,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,75,Female,19.3,Healthy
+ERR2726473,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,57,Female,21.2,Healthy
+ERR2726474,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,66,Male,30.3,Healthy
+ERR2726475,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,64,Male,25.4,Healthy
+ERR2726476,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Female,24.1,Cancer
+ERR2726477,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Female,24.1,Cancer
+ERR2726478,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Female,24.1,Cancer
+ERR2726479,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,61,Female,24.1,Cancer
+ERR2726480,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,63,Female,28.8,Cancer
+ERR2726481,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,63,Female,28.8,Cancer
+ERR2726482,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,63,Female,28.8,Cancer
+ERR2726483,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,63,Female,28.8,Cancer
+ERR2726484,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,50,Female,32.1,Cancer
+ERR2726485,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,64,Female,21.1,Healthy
+ERR2726486,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,73,Male,24.5,Healthy
+ERR2726487,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,64,Female,22.8,Healthy
+ERR2726488,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,56,Female,30,Cancer
+ERR2726489,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Female,35.8,Cancer
+ERR2726490,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Female,35.8,Cancer
+ERR2726491,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Female,35.8,Cancer
+ERR2726492,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Female,35.8,Cancer
+ERR2726493,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,58,Female,23.8,Healthy
+ERR2726494,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Male,19.7,Cancer
+ERR2726495,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Male,19.7,Cancer
+ERR2726496,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Male,19.7,Cancer
+ERR2726497,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Male,19.7,Cancer
+ERR2726498,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,57,Female,22.2,Healthy
+ERR2726499,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,48,Male,23,Healthy
+ERR2726500,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,53,Female,23,Healthy
+ERR2726501,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,62,Female,21.3,Cancer
+ERR2726502,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Female,23,Healthy
+ERR2726503,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,60,Female,21.9,Cancer
+ERR2726504,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,69,Female,25.3,Healthy
+ERR2726505,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,28,Male,24.6,Healthy
+ERR2726506,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,54,Female,24.6,Healthy
+ERR2726507,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,52,Male,29.9,Cancer
+ERR2726508,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,52,Male,29.9,Cancer
+ERR2726509,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,52,Male,29.9,Cancer
+ERR2726510,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,52,Male,29.9,Cancer
+ERR2726511,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,51,Female,25.6,Healthy
+ERR2726512,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,58,Female,27,Healthy
+ERR2726513,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,66,Female,13.3,Cancer
+ERR2726514,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,66,Female,13.3,Cancer
+ERR2726515,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,66,Female,13.3,Cancer
+ERR2726516,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,66,Female,13.3,Cancer
+ERR2726517,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,45,Female,27.2,Healthy
+ERR2726518,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,84,Male,24,Cancer
+ERR2726519,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,84,Male,24,Cancer
+ERR2726520,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,84,Male,24,Cancer
+ERR2726521,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,84,Male,24,Cancer
+ERR2726522,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,73,Male,26.6,Cancer
+ERR2726523,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,73,Male,26.6,Cancer
+ERR2726524,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,73,Male,26.6,Cancer
+ERR2726525,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,73,Male,26.6,Cancer
+ERR2726526,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Female,32.3,Healthy
+ERR2726527,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Male,26.5,Cancer
+ERR2726528,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Male,26.5,Cancer
+ERR2726529,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Male,26.5,Cancer
+ERR2726530,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,59,Male,26.5,Cancer
+ERR2726531,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,37,Male,24.5,Healthy
+ERR2726532,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,39,Male,24.9,Healthy
+ERR2726533,Cohort_2,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq_4000,70,Male,26.7,Healthy
+ERR478958,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,25,Healthy
+ERR478959,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,25,Healthy
+ERR478960,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,25,Healthy
+ERR478961,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,25,Healthy
+ERR478962,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,32,Healthy
+ERR478963,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,32,Healthy
+ERR478964,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,35,Male,23,Healthy
+ERR478965,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,35,Male,23,Healthy
+ERR478966,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,35,Male,23,Healthy
+ERR478967,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,35,Male,23,Healthy
+ERR478968,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,67,Male,28,Cancer
+ERR478969,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,67,Male,28,Cancer
+ERR478970,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,74,Male,27,Healthy
+ERR478971,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,74,Male,27,Healthy
+ERR478972,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,74,Male,27,Healthy
+ERR478973,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,74,Male,27,Healthy
+ERR478974,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,29,Male,24,Healthy
+ERR478975,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,29,Male,24,Healthy
+ERR478976,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,61,Male,23,Healthy
+ERR478977,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,61,Male,23,Healthy
+ERR478978,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,61,Male,23,Healthy
+ERR478979,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,61,Male,23,Healthy
+ERR478980,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,65,Female,24,Healthy
+ERR478981,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,65,Female,24,Healthy
+ERR478982,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,65,Female,24,Healthy
+ERR478983,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,65,Female,24,Healthy
+ERR478984,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,58,Male,24,Cancer
+ERR478985,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,58,Male,24,Cancer
+ERR478986,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,0,Healthy
+ERR478987,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,0,Healthy
+ERR478988,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,0,Healthy
+ERR478989,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,0,Healthy
+ERR478990,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,77,Female,22,Healthy
+ERR478991,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,77,Female,22,Healthy
+ERR478998,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,26,Adenoma
+ERR478999,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,26,Adenoma
+ERR479006,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,26,Adenoma
+ERR479007,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,26,Adenoma
+ERR479008,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,26,Adenoma
+ERR479009,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,26,Adenoma
+ERR479010,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Male,26,Cancer
+ERR479011,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Male,26,Cancer
+ERR479012,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,58,Male,22,Adenoma
+ERR479013,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,58,Male,22,Adenoma
+ERR479024,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,81,Female,39,Cancer
+ERR479025,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,81,Female,39,Cancer
+ERR479026,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,81,Female,39,Cancer
+ERR479027,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,81,Female,39,Cancer
+ERR479028,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,81,Female,39,Cancer
+ERR479029,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,51,Male,30,Cancer
+ERR479030,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,51,Male,30,Cancer
+ERR479031,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,51,Male,30,Cancer
+ERR479032,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,51,Male,30,Cancer
+ERR479037,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Female,20,Cancer
+ERR479038,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Female,20,Cancer
+ERR479039,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,56,Female,0,Cancer
+ERR479040,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,56,Female,0,Cancer
+ERR479053,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,37,Cancer
+ERR479054,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,37,Cancer
+ERR479055,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,37,Cancer
+ERR479056,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,37,Cancer
+ERR479057,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,23,Adenoma
+ERR479058,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,23,Adenoma
+ERR479065,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,25,Cancer
+ERR479066,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,25,Cancer
+ERR479067,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Male,29,Adenoma
+ERR479068,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Male,29,Adenoma
+ERR479069,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Male,29,Adenoma
+ERR479070,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Male,29,Adenoma
+ERR479071,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,82,Male,24,Cancer
+ERR479072,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,82,Male,24,Cancer
+ERR479073,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,82,Male,24,Cancer
+ERR479074,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,82,Male,24,Cancer
+ERR479075,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,77,Male,23,Adenoma
+ERR479076,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,77,Male,23,Adenoma
+ERR479077,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Male,26,Cancer
+ERR479078,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Male,26,Cancer
+ERR479083,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,69,Female,24,Cancer
+ERR479084,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,69,Female,24,Cancer
+ERR479085,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Male,31,Adenoma
+ERR479086,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Male,31,Adenoma
+ERR479087,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Male,31,Adenoma
+ERR479088,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Male,27,Adenoma
+ERR479089,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Male,27,Adenoma
+ERR479090,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Male,27,Adenoma
+ERR479097,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,89,Male,24,Adenoma
+ERR479098,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,89,Male,24,Adenoma
+ERR479103,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,66,Male,24,Adenoma
+ERR479104,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,66,Male,24,Adenoma
+ERR479105,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,30,Adenoma
+ERR479106,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,30,Adenoma
+ERR479111,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,21,Cancer
+ERR479112,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,21,Cancer
+ERR479113,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,21,Cancer
+ERR479114,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,21,Cancer
+ERR479115,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,80,Male,29,Cancer
+ERR479116,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,80,Male,29,Cancer
+ERR479117,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,80,Male,29,Cancer
+ERR479122,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Female,21,Adenoma
+ERR479123,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Female,21,Adenoma
+ERR479124,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,40,Cancer
+ERR479125,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,40,Cancer
+ERR479126,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,40,Cancer
+ERR479127,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,40,Cancer
+ERR479136,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Female,21,Adenoma
+ERR479137,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Female,21,Adenoma
+ERR479138,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,79,Female,22,Cancer
+ERR479139,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,79,Female,22,Cancer
+ERR479140,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,87,Female,32,Cancer
+ERR479141,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,87,Female,32,Cancer
+ERR479142,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Female,24,Cancer
+ERR479143,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Female,24,Cancer
+ERR479144,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Female,24,Cancer
+ERR479145,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Female,24,Cancer
+ERR479146,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,74,Female,19,Cancer
+ERR479147,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,74,Female,19,Cancer
+ERR479148,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,78,Male,19,Cancer
+ERR479149,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,78,Male,19,Cancer
+ERR479154,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Female,0,Adenoma
+ERR479155,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Female,0,Adenoma
+ERR479156,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,59,Female,0,Adenoma
+ERR479161,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,48,Female,21,Adenoma
+ERR479162,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,66,Male,22,Adenoma
+ERR479163,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,66,Male,22,Adenoma
+ERR479164,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,66,Male,22,Adenoma
+ERR479165,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,75,Male,37,Cancer
+ERR479166,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,75,Male,37,Cancer
+ERR479173,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,65,Male,24,Cancer
+ERR479174,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,65,Male,24,Cancer
+ERR479175,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,54,Female,22,Cancer
+ERR479176,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,54,Female,22,Cancer
+ERR479177,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,67,Male,25,Cancer
+ERR479178,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,67,Male,25,Cancer
+ERR479179,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,67,Male,25,Cancer
+ERR479180,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,67,Male,25,Cancer
+ERR479181,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,27,Adenoma
+ERR479182,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,27,Adenoma
+ERR479187,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,32,Adenoma
+ERR479188,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,32,Adenoma
+ERR479189,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Female,32,Adenoma
+ERR479190,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,52,Female,23,Adenoma
+ERR479191,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,52,Female,23,Adenoma
+ERR479192,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,52,Female,23,Adenoma
+ERR479193,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Female,21,Cancer
+ERR479194,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,62,Female,21,Cancer
+ERR479199,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,87,Female,15,Cancer
+ERR479200,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,87,Female,15,Cancer
+ERR479201,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Female,33,Adenoma
+ERR479202,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Female,33,Adenoma
+ERR479207,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Female,26,Adenoma
+ERR479208,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Female,26,Adenoma
+ERR479213,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,26,Adenoma
+ERR479214,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,26,Adenoma
+ERR479215,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,26,Adenoma
+ERR479216,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,26,Adenoma
+ERR479217,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,28,Adenoma
+ERR479218,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,28,Adenoma
+ERR479219,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,25,Cancer
+ERR479220,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,25,Cancer
+ERR479221,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,25,Cancer
+ERR479222,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,53,Male,25,Cancer
+ERR479223,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Male,22,Cancer
+ERR479224,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,72,Male,22,Cancer
+ERR479225,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,76,Male,0,Cancer
+ERR479226,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,76,Male,0,Cancer
+ERR479227,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,45,Male,24,Adenoma
+ERR479228,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,45,Male,24,Adenoma
+ERR479229,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,45,Male,24,Adenoma
+ERR479230,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,45,Male,24,Adenoma
+ERR479231,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,52,Male,33,Adenoma
+ERR479232,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,52,Male,33,Adenoma
+ERR479233,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,52,Male,33,Adenoma
+ERR479234,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,52,Male,33,Adenoma
+ERR479235,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,30,Cancer
+ERR479236,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,30,Cancer
+ERR479237,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,64,Male,30,Cancer
+ERR479238,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,45,Female,24,Adenoma
+ERR479241,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,21,Adenoma
+ERR479242,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,21,Adenoma
+ERR479243,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,70,Female,26,Cancer
+ERR479244,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,70,Female,26,Cancer
+ERR479245,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,80,Female,23,Cancer
+ERR479246,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,80,Female,23,Cancer
+ERR479247,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,80,Female,23,Cancer
+ERR479248,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,80,Female,23,Cancer
+ERR479251,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,76,Male,25,Cancer
+ERR479252,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,76,Male,25,Cancer
+ERR479253,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,76,Male,25,Cancer
+ERR479254,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,56,Female,23,Cancer
+ERR479255,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,23,Cancer
+ERR479256,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,23,Cancer
+ERR479257,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,23,Cancer
+ERR479258,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,23,Cancer
+ERR479276,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,69,Female,25,Cancer
+ERR479277,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,69,Female,25,Cancer
+ERR479278,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,69,Female,25,Cancer
+ERR479279,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,69,Female,25,Cancer
+ERR479284,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,50,Female,24,Cancer
+ERR479304,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,26,Adenoma
+ERR479305,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,26,Adenoma
+ERR479306,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,26,Adenoma
+ERR479307,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,73,Male,26,Adenoma
+ERR479329,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,26,Adenoma
+ERR479330,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,68,Male,26,Adenoma
+ERR479346,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Male,24,Adenoma
+ERR479347,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,60,Male,24,Adenoma
+ERR479362,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,71,Male,29,Adenoma
+ERR479363,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,71,Male,29,Adenoma
+ERR479364,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,71,Male,29,Adenoma
+ERR479365,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,71,Male,29,Adenoma
+ERR479382,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,78,Female,23,Adenoma
+ERR479383,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,78,Female,23,Adenoma
+ERR479384,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,30,Adenoma
+ERR479385,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,30,Adenoma
+ERR479386,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,63,Male,30,Adenoma
+ERR479387,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,71,Female,22,Adenoma
+ERR479388,Cohort_3,Western_Europe,France,EMBL,Illumina_HiSeq _2000,71,Female,22,Adenoma
+ERR479419,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Female,35,Cancer
+ERR479420,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Female,35,Cancer
+ERR479421,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Female,35,Cancer
+ERR479422,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Female,35,Cancer
+ERR479424,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,75,Male,28,Cancer
+ERR479425,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,75,Male,28,Cancer
+ERR479426,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,75,Male,28,Cancer
+ERR479427,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,75,Male,28,Cancer
+ERR479428,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Female,23,Cancer
+ERR479429,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Female,23,Cancer
+ERR479430,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Female,23,Cancer
+ERR479431,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Female,23,Cancer
+ERR479432,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,56,Male,27,Cancer
+ERR479433,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,56,Male,27,Cancer
+ERR479434,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,56,Male,27,Cancer
+ERR479435,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,56,Male,27,Cancer
+ERR479436,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,74,Male,26,Cancer
+ERR479437,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,74,Male,26,Cancer
+ERR479438,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,74,Male,26,Cancer
+ERR479439,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,74,Male,26,Cancer
+ERR479440,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,63,Male,25,Cancer
+ERR479441,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,63,Male,25,Cancer
+ERR479442,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,63,Male,25,Cancer
+ERR479443,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,63,Male,25,Cancer
+ERR479444,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,53,Female,32,Cancer
+ERR479445,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,53,Female,32,Cancer
+ERR479446,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,53,Female,32,Cancer
+ERR479447,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,53,Female,32,Cancer
+ERR479448,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,28,Cancer
+ERR479449,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,28,Cancer
+ERR479450,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,28,Cancer
+ERR479451,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,28,Cancer
+ERR479452,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,72,Female,24,Cancer
+ERR479453,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,72,Female,24,Cancer
+ERR479454,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,72,Female,24,Cancer
+ERR479455,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,72,Female,24,Cancer
+ERR479456,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Male,22,Cancer
+ERR479457,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Male,22,Cancer
+ERR479458,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Male,22,Cancer
+ERR479459,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Male,22,Cancer
+ERR479460,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Male,26,Cancer
+ERR479461,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Male,26,Cancer
+ERR479462,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Male,26,Cancer
+ERR479463,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Male,26,Cancer
+ERR479464,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Male,27,Cancer
+ERR479465,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Male,27,Cancer
+ERR479466,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Male,27,Cancer
+ERR479467,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,42,Male,27,Cancer
+ERR479468,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,41,Male,22,Cancer
+ERR479469,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,41,Male,22,Cancer
+ERR479470,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,41,Male,22,Cancer
+ERR479471,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,41,Male,22,Cancer
+ERR479472,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,71,Male,30,Cancer
+ERR479473,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,71,Male,30,Cancer
+ERR479474,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,71,Male,30,Cancer
+ERR479475,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,71,Male,30,Cancer
+ERR479476,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,65,Male,28,Cancer
+ERR479477,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,65,Male,28,Cancer
+ERR479478,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,65,Male,28,Cancer
+ERR479479,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,65,Male,28,Cancer
+ERR479480,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,87,Male,22,Cancer
+ERR479481,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,87,Male,22,Cancer
+ERR479482,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,87,Male,22,Cancer
+ERR479483,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,87,Male,22,Cancer
+ERR479484,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Female,27,Cancer
+ERR479485,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Female,27,Cancer
+ERR479486,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Female,27,Cancer
+ERR479487,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,62,Female,27,Cancer
+ERR479489,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,59,Male,24,Cancer
+ERR479490,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,59,Male,24,Cancer
+ERR479491,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,59,Male,24,Cancer
+ERR479492,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,24,Cancer
+ERR479493,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,24,Cancer
+ERR479494,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,24,Cancer
+ERR479495,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,69,Male,24,Cancer
+ERR479496,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,58,Female,32,Cancer
+ERR479497,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,58,Female,32,Cancer
+ERR479498,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,58,Female,32,Cancer
+ERR479499,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,58,Female,32,Cancer
+ERR479500,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,35,Female,22,Cancer
+ERR479501,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,35,Female,22,Cancer
+ERR479502,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,35,Female,22,Cancer
+ERR479503,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,35,Female,22,Cancer
+ERR479504,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,58,Male,25,Cancer
+ERR479505,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,58,Male,25,Cancer
+ERR479507,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,58,Male,25,Cancer
+ERR479508,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,73,Female,22,Cancer
+ERR479509,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,73,Female,22,Cancer
+ERR479510,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,73,Female,22,Cancer
+ERR479511,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,73,Female,22,Cancer
+ERR479512,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,51,Male,28,Cancer
+ERR479513,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,51,Male,28,Cancer
+ERR479514,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,51,Male,28,Cancer
+ERR479515,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,51,Male,28,Cancer
+ERR479516,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Male,31,Cancer
+ERR479517,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Male,31,Cancer
+ERR479518,Cohort_3,Western-Central_Europe,Germany,EMBL,Illumina_HiSeq _2000,66,Male,31,Cancer
+ERR688505,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,64,Male,29.35,Cancer
+ERR688506,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Male,32,Healthy
+ERR688507,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,60,Female,22.1,Healthy
+ERR688508,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Male,34.11,Adenoma
+ERR688509,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Male,23.45,Healthy
+ERR688510,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,66,Male,30.3,Healthy
+ERR688511,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,73,Male,29.7,Healthy
+ERR688512,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,67,Male,27.14,Adenoma
+ERR688513,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,73,Male,17.99,Cancer
+ERR688515,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,65,Male,28.03,Cancer
+ERR688516,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,74,Female,28.3,Healthy
+ERR688517,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,65,Female,23.31,Cancer
+ERR688518,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Male,22.64,Healthy
+ERR688519,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,62,Male,26.88,Adenoma
+ERR688521,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,67,Male,29.4,Cancer
+ERR688522,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,69,Female,24.13,Adenoma
+ERR688523,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,67,Male,22.79,Healthy
+ERR688524,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,62,Male,30.1,Adenoma
+ERR688525,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,82,Male,30.47,Cancer
+ERR688526,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,34.08,Adenoma
+ERR688527,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,84,Male,27.28,Cancer
+ERR688528,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Female,21.7,Healthy
+ERR688529,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,30.9,Healthy
+ERR688530,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Male,22.2,Healthy
+ERR688532,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Male,29.03,Healthy
+ERR688533,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,71,Male,29.04,Healthy
+ERR688534,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,86,Female,20.5,Cancer
+ERR688535,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,30.4,Healthy
+ERR688536,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Female,34.01,Adenoma
+ERR688537,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Male,31.8,Cancer
+ERR688538,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Female,24.84,Adenoma
+ERR688539,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,69,Female,30,Healthy
+ERR688540,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,71,Male,27.04,Adenoma
+ERR688541,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,84,Female,31.22,Cancer
+ERR688542,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,30.77,Adenoma
+ERR688543,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,67,Male,23.14,Healthy
+ERR688544,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,66,Female,21.7,Healthy
+ERR688545,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Female,27.43,Adenoma
+ERR688546,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,78,Female,31.24,Adenoma
+ERR688547,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,60,Male,26.64,Cancer
+ERR688548,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Male,32.25,Cancer
+ERR688549,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,69,Female,24.4,Adenoma
+ERR688550,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,64,Male,29.3,Healthy
+ERR688551,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,65,Male,28.9,Healthy
+ERR688552,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Female,31,Healthy
+ERR688553,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,84,Female,27.77,Cancer
+ERR688555,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,77,Male,25.7,Adenoma
+ERR688556,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Female,30,Healthy
+ERR688557,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,66,Male,29.98,Healthy
+ERR688558,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,74,Male,26.37,Cancer
+ERR688560,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,84,Female,24.7,Adenoma
+ERR688561,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,66,Male,30.02,Healthy
+ERR688562,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,69,Female,28.3,Healthy
+ERR688563,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,69,Female,22.4,Healthy
+ERR688564,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Male,31.25,Healthy
+ERR688566,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,73,Female,32,Healthy
+ERR688567,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,54,Female,27.34,Cancer
+ERR688568,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,55,Female,23.34,Cancer
+ERR688569,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,73,Female,29.75,Cancer
+ERR688570,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,64,Male,24.09,Cancer
+ERR688571,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,25.88,Cancer
+ERR688572,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Male,28.41,Cancer
+ERR688573,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,46,Male,30.86,Cancer
+ERR688574,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,73,Female,24.82,Cancer
+ERR688575,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,74,Male,29.17,Cancer
+ERR688577,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,56,Female,20.07,Cancer
+ERR688578,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Female,26.67,Cancer
+ERR688579,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,52,Male,27.14,Cancer
+ERR688580,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,71,Male,29.74,Cancer
+ERR688581,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,74,Female,24.34,Cancer
+ERR688582,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,60,Male,30.08,Cancer
+ERR688583,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,43,Male,22.68,Cancer
+ERR688585,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,83,Female,21.94,Adenoma
+ERR688586,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,67,Female,33.23,Adenoma
+ERR688587,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,60,Male,30,Adenoma
+ERR688588,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,67,Male,28.34,Adenoma
+ERR688589,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,69,Male,21.46,Adenoma
+ERR688590,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,71,Female,29,Healthy
+ERR688591,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,64,Male,29.38,Healthy
+ERR688593,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,64,Male,22.78,Healthy
+ERR688594,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Female,22.1,Healthy
+ERR688595,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,34.14,Healthy
+ERR688596,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Male,31.6,Healthy
+ERR688597,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,61,Female,22.8,Adenoma
+ERR688598,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,74,Female,28.5,Healthy
+ERR688599,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,30.4,Healthy
+ERR688600,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Female,30,Healthy
+ERR688601,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,62,Female,32.8,Adenoma
+ERR688602,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,27.4,Adenoma
+ERR688603,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,71,Female,29,Healthy
+ERR688604,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,52,Female,32.8,Adenoma
+ERR688605,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,65,Male,31.22,Healthy
+ERR688606,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Female,22.4,Healthy
+ERR688607,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Male,31.8,Healthy
+ERR688608,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,65,Male,22.03,Healthy
+ERR688609,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,64,Male,29.3,Adenoma
+ERR688610,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Female,22.67,Healthy
+ERR688611,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,78,Female,24,Adenoma
+ERR688612,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,75,Female,31,Healthy
+ERR688613,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,71,Male,24.8,Adenoma
+ERR688614,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Male,23.67,Healthy
+ERR688615,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,58,Male,21.7,Adenoma
+ERR688616,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,31.17,Healthy
+ERR688617,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Female,22.8,Healthy
+ERR688618,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,47,Female,25.78,Cancer
+ERR688619,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,67,Female,22.58,Healthy
+ERR688620,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,80,Male,26.47,Adenoma
+ERR688621,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,75,Female,30.12,Adenoma
+ERR688622,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,62,Female,22.1,Healthy
+ERR688623,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,48,Male,25.61,Adenoma
+ERR688624,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Male,29.8,Healthy
+ERR688625,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,56,Female,22.8,Adenoma
+ERR688626,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Female,25.2,Adenoma
+ERR688627,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,62,Male,24.3,Adenoma
+ERR688628,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Female,30.47,Adenoma
+ERR688629,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,77,Male,37.56,Adenoma
+ERR688630,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,66,Female,22.65,Adenoma
+ERR688631,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Female,29.38,Adenoma
+ERR688632,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,74,Female,24.13,Adenoma
+ERR688633,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,58,Male,27.02,Adenoma
+ERR688635,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,52,Male,25.73,Cancer
+ERR688636,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Female,24.22,Cancer
+ERR688637,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,79,Male,26.3,Cancer
+ERR688638,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,77,Male,19.16,Cancer
+ERR688639,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,64,Male,29.07,Cancer
+ERR688640,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Female,27.12,Cancer
+ERR688641,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,69,Male,29.94,Cancer
+ERR688642,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,66,Male,22.6,Cancer
+ERR688643,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Female,23.83,Cancer
+ERR688644,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,65,Male,29.74,Cancer
+ERR688645,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,59,Female,29.2,Adenoma
+ERR688646,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,46,Male,23.15,Healthy
+ERR688647,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Male,33.56,Healthy
+ERR688648,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,46,Male,28.74,Healthy
+ERR688649,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,45,Female,22.15,Cancer
+ERR688650,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,72,Male,24.34,Cancer
+ERR688651,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,77,Male,23.5,Cancer
+ERR710424,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,63,Female,25.65,Adenoma
+ERR710425,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,56,Female,43.58,Adenoma
+ERR710426,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,55,Male,27.76,Healthy
+ERR710427,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,70,Male,28.72,Healthy
+ERR710428,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,73,Female,26.56,Healthy
+ERR710429,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Male,23.53,Healthy
+ERR710430,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,78,Male,31.22,Healthy
+ERR710431,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,68,Female,27.55,Adenoma
+ERR710432,Cohort_6,Central_Europe,Austria,BGI,Illumina_HiSeq _2000,43,Female,22.65,Healthy
+SRR30861079,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,63,Male,23.1,Cancer
+SRR30861080,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,52,Male,26.4,Healthy
+SRR30861081,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,39,Male,23.3,Healthy
+SRR30861082,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,45,Male,28.7,Healthy
+SRR30861083,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,43,Male,27.5,Healthy
+SRR30861084,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,63,Male,23,Healthy
+SRR30861085,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,44,Male,20.8,Healthy
+SRR30861088,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,47,Male,26.1,Healthy
+SRR30861089,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,42,Male,27.2,Healthy
+SRR30861090,Cohort_7,West_Asia,Turkey,UTU,Illumina_NovaSeq_6000,42,Male,27.7,Healthy

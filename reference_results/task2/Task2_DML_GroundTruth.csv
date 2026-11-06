@@ -1,0 +1,3 @@
+Taxon,Comparison,N,Estimate,CI_lower,CI_upper,Seed
+Fusobacterium nucleatum_J,Cancer_vs_Healthy,770,0.021408179666822735,0.015501663507863596,0.027314695825781873,42
+Acidaminococcus intestini,Cancer_vs_Healthy,770,-0.0021213214864257875,-0.006652735751512006,0.002410092778660432,42
