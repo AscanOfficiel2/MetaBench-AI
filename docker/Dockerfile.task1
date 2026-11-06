@@ -1,0 +1,20 @@
+
+# ==========================================================
+# MetaBench-AI | Task 1
+# R Environment for CLR, Batch Correction and PERMANOVA
+# ==========================================================
+
+FROM bioconductor/bioconductor_docker:RELEASE_3_20
+
+# Install CRAN packages and limma dependency
+RUN R -e "install.packages(c('statmod', 'vegan', 'compositions', 'dplyr'), repos='https://cloud.r-project.org', dependencies=NA)"
+
+# Install limma from Bioconductor
+RUN R -e "BiocManager::install('limma', ask=FALSE, update=FALSE)"
+
+# Verify required packages during image build
+RUN Rscript -e "library(statmod); library(limma); library(vegan); library(compositions); library(dplyr); cat('All Task 1 packages available\n')"
+
+WORKDIR /workspace
+
+CMD ["Rscript", "--version"]

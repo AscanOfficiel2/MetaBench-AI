@@ -6,3 +6,8 @@ venv/
 .RData
 reference_results/task1/Task1_CLR_BatchCorrected_V2.csv
 reference_results/task1/Task1_CLR_Filtered.csv
+.env
+.venv/
+evaluation_runs/
+evaluation/agent_workspace/
+evaluation/agent_outputs/
