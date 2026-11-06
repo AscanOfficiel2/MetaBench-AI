@@ -1,8 +1,6 @@
 ## How to use MetaBench-AI
 MetaBench-AI currently provides two open development benchmark tasks. Each task has an agent-facing prompt, input datasets, and independently computed reference results.
-Task	Agent-facing instructions	Inputs
-Batch-effect evaluation	[Task 1 prompt](benchmarks/task1_batch_effects.md)	[Task 1 inputs](Task1_input/)
-DML and negative-control analysis	[Task 2 prompt](benchmarks/task2_dml_negative_control.md)[Task 2 inputs](Task2_input/)
+
 
 
 ## Run a task
