@@ -76,9 +76,7 @@ A formal software citation and archived release identifier are planned. Until th
 
 ## 6. License
 
-Original MetaBench-AI software and reference scripts are provided under the **MIT License**, subject to the copyright and attribution notices in [`LICENSE`](LICENSE). Dataset access and redistribution conditions may differ and are not superseded by the software license.
-
-**Repository:** https://github.com/AscanOfficiel2/MetaBench-AI
+Original MetaBench-AI software and reference scripts are provided under the MIT License. Dataset access and redistribution conditions may differ and are not superseded by the software license.
 
 ---
 
