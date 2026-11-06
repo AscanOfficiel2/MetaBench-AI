@@ -1,0 +1,29 @@
+{
+  "task_id": "mgx_batch_effect_evaluation",
+  "passed": 3,
+  "total": 3,
+  "score": 1.0,
+  "all_passed": true,
+  "checks": {
+    "factor": {
+      "pass": true,
+      "actual": "Project",
+      "expected": "Project"
+    },
+    "r2_before": {
+      "pass": true,
+      "actual": 0.066371,
+      "expected": 0.0663707059056571,
+      "tolerance": 0.0001,
+      "absolute_error": 2.940943428925147e-07
+    },
+    "r2_after": {
+      "pass": true,
+      "actual": 0.000761,
+      "expected": 0.000761409501714426,
+      "tolerance": 0.0001,
+      "absolute_error": 4.0950171442601536e-07
+    }
+  },
+  "limitations": "Open-book reference values; grading does not verify execution or provenance. DML confidence-interval tolerance (0.003) is provisional."
+}
