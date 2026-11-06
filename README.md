@@ -4,8 +4,6 @@
 
 **MetaBench-AI** is an open, research-oriented collection of data-dependent tasks for assessing whether AI agents can carry out scientifically defensible metagenomic analyses. Its initial development release focuses on compositional preprocessing, batch-effect evaluation, and confounder-aware microbial association analysis using multi-cohort colorectal cancer (CRC) microbiome data.
 
-**Status:** v0.1.0 (development) · **Language:** R and Python · **License:** MIT for original software (see [LICENSE](LICENSE); dataset terms may differ)
-
 > **Scope:** This is a transparent *development and reproducibility benchmark*, not a validated, leakage-resistant leaderboard. Reference answers are public, and no systematic multi-model performance claims are made.
 
 ## 1. Rationale
