@@ -174,7 +174,7 @@ Contributions, suggestions and scientific discussions are welcome through GitHub
 
 ## 10. Citation and License
 
-## License
+### License
 
 The original MetaBench-AI software and reference scripts are released under the MIT License.
 
@@ -182,6 +182,11 @@ See the [LICENSE](LICENSE) file for details.
 
 The underlying metagenomic datasets may be subject to separate data-use and redistribution conditions. The MIT License does not override those conditions.
 
+**Repository:** [MetaBench-AI](https://github.com/AscanOfficiel2/MetaBench-AI)
+
+---
+
+*MetaBench-AI is an evolving research resource intended to support transparent and reproducible evaluation of scientific AI agents in metagenomics.*
 **Repository:** https://github.com/AscanOfficiel2/MetaBench-AI
 
 ---
