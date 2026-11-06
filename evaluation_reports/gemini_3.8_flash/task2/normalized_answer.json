@@ -1,0 +1,17 @@
+{
+  "task_id": "mgx_crc_dml_negative_control",
+  "taxa": {
+    "Fusobacterium nucleatum_J": {
+      "estimate": 0.021408,
+      "ci_lower": 0.015502,
+      "ci_upper": 0.027315,
+      "ci_excludes_zero": true
+    },
+    "Acidaminococcus intestini": {
+      "estimate": -0.002121,
+      "ci_lower": -0.006653,
+      "ci_upper": 0.00241,
+      "ci_excludes_zero": false
+    }
+  }
+}

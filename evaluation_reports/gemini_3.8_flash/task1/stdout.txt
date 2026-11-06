@@ -1,0 +1,7 @@
+Coefficients not estimable: InstrumentIllumina_HiSeq_2500 InstrumentIllumina_HiSeq_4000 InstrumentIllumina_NovaSeq_6000 InstrumentIllumina_unspecified Center_NameEMBL Center_NameTITECH Center_NameUOT Center_NameUTU 
+{
+  "task_id": "mgx_batch_effect_evaluation",
+  "factor": "Project",
+  "r2_before": 0.066371,
+  "r2_after": 0.000761
+} 

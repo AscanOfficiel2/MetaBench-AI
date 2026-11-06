@@ -1,0 +1,9 @@
+{
+  "script": "gemini_task1_20261106_221205_867867.R",
+  "container": "metabench-b3561ef1f06c",
+  "image": "metabench-task1",
+  "timeout_seconds": 1800,
+  "timed_out": false,
+  "exit_code": 0,
+  "timestamp_utc": "20261106_224253_9ff9c765"
+}
