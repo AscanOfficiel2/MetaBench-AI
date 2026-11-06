@@ -4,3 +4,5 @@ __pycache__/
 venv/
 .Rhistory
 .RData
+reference_results/task1/Task1_CLR_BatchCorrected_V2.csv
+reference_results/task1/Task1_CLR_Filtered.csv
